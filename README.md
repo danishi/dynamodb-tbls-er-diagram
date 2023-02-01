@@ -8,4 +8,4 @@ Configure the AWS CLI and set it up to access DynamoDB.
 $ tbls doc
 ```
 
-ER diagram and table definition are output.
+ER diagram and table definition are [output](https://github.com/danishi/dynamodb-tbls-er-diagram/tree/master/dbdoc).
